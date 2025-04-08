@@ -35,8 +35,8 @@ These were merged on the `User_ID` column, and irrelevant features like `User_ID
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/FRO-54/ML-Project.git
-cd ML-Project
+git clone https://github.com/FRO-54/Calories_prediction_ML
+cd Calories_prediction_ML
 ```
 
 ### 2. Create a Virtual Environment (Recommended)
